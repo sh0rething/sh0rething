@@ -1,30 +1,56 @@
-## Welcome to GitHub Pages
+## Flipping hell! New Zealand property frenzy as two houses sold five times in four days
+Eleanor Ainge Roy, 18 January 2017 - [Guardian](https://www.theguardian.com/world/2017/jan/18/flipping-hell-new-zealand-property-frenzy-as-two-houses-sold-five-times-in-four-days),[Archive](https://archive.ph/kPqoP)
 
-You can use the [editor on GitHub](https://github.com/sh0rething/sh0rething/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+An investigation has been launched into how two Auckland homes were sold five times in four days as the practice of “flipping” continues to boom in New Zealand’s largest city and hottest property market. Flipping is loosely defined as properties which are sold twice or more within a single year, and properties sold twice or more within the space of six months raise particular concerns for regulators. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Kevin Lampen-Smith, chief executive of the Real Estate Agents Authority, said his agency would investigate both transactions because the speed of how quickly they changed hands had raised red flags. “The natural question is if the property has been bought and sold a couple of times and the price keeps on going up, was the initial vendor looked after?,” said Lampen-Smith. “Any time transactions take place very quickly you have increased concern to make sure all parties are fully informed of the decisions they are making.”
 
-### Markdown
+Nick Goodall, a senior research analyst for CoreLogic, said while contemporaneous transactions were not illegal there were ethical concerns if unscrupulous developers took advantage of less-educated vendors. Goodall said 7.4% of Auckland property transactions were identified as potential “flips” in 2016, with high net migration and a shortage of housing pushing up prices. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
+## Goldman Sachs: New Zealand houses most over-valued
+Susan Edmunds, 16 May 2017 - [Stuff](https://www.stuff.co.nz/business/92642259/goldman-sachs-new-zealand-houses-most-overvalued),[Archive](https://archive.ph/F5tOm)
 
-```markdown
-Syntax highlighted code block
+Investment bank Goldman Sachs says there is a 40 per cent chance New Zealand will suffer a housing market "bust" in the next two years. It has put out a report that looks at housing markets in the G-10 countries, according to Bloomberg. It reportedly found New Zealand's was the most over-valued and at risk of correction. But to qualify as a "bust", prices would only have to fall 5 per cent or more, after inflation.
 
-# Header 1
-## Header 2
-### Header 3
+It judged prices over-valued based on the ratio of house prices to rent, the ratio of house prices to household income and house prices adjusted for inflation, Bloomberg said. Property commentator Olly Newland said a 60 per cent chance that there would not be a fall in prices of 5 per cent or more was still good odds for those in the market. He said it seemed more likely that prices would flatten, rather than fall rapidly. There are already signs this is happening in Auckland – Real Estate Institute figures show prices there up only 3 per cent year-on-year in April. 
 
-- Bulleted
-- List
+"A crash would have to be a 20 per cent \[drop in prices\] or more," he said. "You can read the figures any way you like but it's highly unlikely, it's headline grabbing." He said it would take a significant economy-derailing event, either in New Zealand or internationally, to seriously dent house prices.
 
-1. Numbered
-2. List
+But Gareth Kiernan, chief forecaster at Infometrics, said Goldman Sachs was being too conservative. He said a 5 per cent fall was "hardly bust territory given where New Zealand is at the moment. It's hard to know with Auckland but in the grand scheme of things they are probably underestimating the probability."
 
-**Bold** and _Italic_ and `Code` text
+ASB senior economist Chris Tennent-Brown said even a 10 per cent to 15 per cent price fall, it would only take prices back to where they were a year or 18 months ago. "When everyone was writing saying how expensive housing was." "You could have a reasonable correction and what was a $1 million house becomes $900,000. It's still a very expensive home."
 
-[Link](url) and ![Image](src)
-```
+---
+## Where NZ ranks now with Chinese real estate buyers: popularity change
+Anne Gibson, 22 August 2017 - [NZ Herald](https://www.nzherald.co.nz/business/where-nz-ranks-now-with-chinese-real-estate-buyers-popularity-change/6GF53EX4XTTX6MFFZ7F3AX6ONI/),[Archive](https://archive.ph/GfI45)
+
+Chinese buyer appetite for New Zealand property remains strong because this country's real estate is "good value", a real estate chief says, but we have slipped in popularity lately. Jane Lu, Australia and New Zealand chief for Chinese real estate business Juwai, said for Chinese buyers, New Zealand ranked as the sixth most popular country globally, behind the United States, Australia, Thailand, Canada and the United Kingdom.
+
+"The fact that we still have so many Chinese buying in New Zealand shows that they still have the money and the interest. When you compare the price of similar property in China and New Zealand, the latter still offers good value," Lu said. "Despite tighter capital controls this year, 57 per cent of Chinese still say they will increase their overseas investments over the next two years, with more than 60 per cent planning to invest specifically in residential real estate," she said. 
+
+In the past two years, property investors reported how bidding at Auckland residential auctions from people based in China has reduced significantly and competition was not as strong. Last year, Juwai said Chinese buyers were showing a growing appetite for New Zealand properties, with inquiries jumping by 50 per cent on Juwai.com, the biggest portal for Chinese searching here for properties.
+
+---
+## Labour governments have overseen greatest house price inflation, data shows
+Susan Edmunds, 03 November 2017 - [Stuff](https://www.stuff.co.nz/business/property/98475352/labour-governments-have-overseen-greatest-house-price-inflation-data-shows), [Archive](https://archive.ph/ffe7A)
+
+New government policies are predicted to put the brakes on an already slowing property market. But data shows that, historically, it has been Labour governments that have overseen New Zealand's biggest house price rises. Data from CoreLogic shows house prices grew 49 per cent from 1990 to 1999, under National-led governments. Then, from 1999 to 2008, prices rose 113 per cent under the last Labour-led government.
+
+ Tony Alexander, BNZ's chief economist, used data back to 1961, which showed the average price rise per annum under governments led by each party. It showed an average rise of 9.1 per cent per year under the National governments, and 16.8 per cent under Labour - or 13.9 per cent excluding the 1972 Labour government period when oil prices soared and inflation was  uncontrolled.
+
+"I would not however take this analysis as providing any reasonable guide as to what is going to happen going forward. It would not be reasonable to expect that if Labour stay in power nine years again that average house prices will rise some 125 per cent to 150 per cent," he said. "In 1992 and again post-GFC we saw a structural decline in the average level of interest rates. Lower financing costs have been factored into house prices and attracted new investors looking for yield. The housing market has internationalised these past three decades so there are new buyers who were not there before. Now few new foreign buyers will come through."
+
+---
+## MBIE figures show nationwide housing shortage of 71,000
+Corazon Miller, 03 November 2017 - [NZ Herald](https://www.nzherald.co.nz/business/mbie-figures-show-nationwide-housing-shortage-of-71000/55NUUYNFWZA3OJTTDCHF7W3T4I/), [Archive](https://archive.ph/Rqg8m)
+
+New Zealand needs 71,000 more houses - more than half of them in Auckland - the country's biggest city. Nationwide Ministry of Business, Innovation and Employment figures released to the Herald show there is a shortage of 71,194 houses - 44,738 are needed in Auckland alone. The next biggest housing shortfall was in greater Wellington with a shortage of 9312 properties - less than a quarter of what's needed in Auckland.
+
+The methodology used by MBIE estimated the accumulated housing shortfall in Auckland after assessing the rise in population compared to new houses that have been built. MBIE said the shortage of supply relative to demand had contributed to a large growth in prices, as well as an increase in rents.
+
+The new Labour-led government plans to build 100,000 new homes in the next 10 years with its $2b KiwiBuild scheme. In the coming three years, KiwiBuild aims to gradually ramp up to 10,000 high-quality affordable new residences for first-home buyers per year, half in Auckland. Earlier Phil Twyford told the Herald it would take about three years for the programme to kick into full-strength, starting out at a few hundred or possibly 1000 residences in the first year.
+
 ---
 ## An economy built on rising house prices: Is property our path to recovery?
 Daniel Dunkley, 08 October 2020 - [Stuff](https://www.stuff.co.nz/business/opinion-analysis/300126229/an-economy-built-on-rising-house-prices-is-property-our-path-to-recovery), [Archive](https://archive.ph/Zuf4N)
@@ -36,13 +62,3 @@ The two politicians danced around the issue under the studio lights. After a mom
 A recent statement from the Reserve Bank’s Monetary Policy Committee suggests figures within the central bank view the buoyant housing market as a useful side-effect of recent decision-making. A summary of the Reserve Bank committee’s latest meeting read: “Some members noted that economic activity in New Zealand has historically been closely correlated with changes in household wealth, and that a stronger housing market may indicate a stronger recovery in consumer spending and residential construction if sustained.” In other words, higher house prices may boost confidence, making Kiwis more comfortable to go out and spend. If the price of their home is going up, people may be more likely to stimulate the economy.
 
 ---
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sh0rething/sh0rething/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
