@@ -25,6 +25,17 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+---
+## An economy built on rising house prices: Is property our path to recovery?
+Daniel Dunkley, 08 October 2020 - [Stuff](https://www.stuff.co.nz/business/opinion-analysis/300126229/an-economy-built-on-rising-house-prices-is-property-our-path-to-recovery), [Archive](https://archive.ph/Zuf4N)
+
+Are soaring house prices good or bad in the middle of a global recession? Our political leaders seem unsure. At last week’s pre-election debate, Prime Minister Jacinda Ardern and National’s Judith Collins froze as they were asked a “gotcha” question: would they like to see property prices drop?
+
+The two politicians danced around the issue under the studio lights. After a moment of deliberation, the risk-averse Ardern stressed she did not want prices to keep “escalating”. Pressed for more detail, she said she wanted the market to “stabilise”.
+
+A recent statement from the Reserve Bank’s Monetary Policy Committee suggests figures within the central bank view the buoyant housing market as a useful side-effect of recent decision-making. A summary of the Reserve Bank committee’s latest meeting read: “Some members noted that economic activity in New Zealand has historically been closely correlated with changes in household wealth, and that a stronger housing market may indicate a stronger recovery in consumer spending and residential construction if sustained.” In other words, higher house prices may boost confidence, making Kiwis more comfortable to go out and spend. If the price of their home is going up, people may be more likely to stimulate the economy.
+
+---
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
