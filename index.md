@@ -202,7 +202,7 @@ Eleanor Ainge Roy, 28 January 2019 - [Guardian](https://www.theguardian.com/worl
 
 **Jacinda Ardern’s flagship KiwiBuild policy labelled ‘a failure’ amid delays and claims homes are too expensive**
 
-acinda Ardern’s flagship housing policy is in dire straits after the government admitted it won’t meet its target of building 1,000 affordable homes in its first year – and is set to fall short by 700. New Zealand house prices are among the most unaffordable in the world, with Auckland the seventh most expensive city to buy a home, and all three major cities considered “severely unaffordable” by the latest Demographia international housing affordability survey.
+Jacinda Ardern’s flagship housing policy is in dire straits after the government admitted it won’t meet its target of building 1,000 affordable homes in its first year – and is set to fall short by 700. New Zealand house prices are among the most unaffordable in the world, with Auckland the seventh most expensive city to buy a home, and all three major cities considered “severely unaffordable” by the latest Demographia international housing affordability survey.
 
 In 2018 the Labour coalition government banned the sale of existing New Zealand homes to overseas buyers and launched its flagship KiwiBuild scheme; aiming to build 100,000 affordable homes in 10 years, with 1,000 of them scheduled for the first year. But since July **just 47 KiwiBuild homes have been completed** – and housing minister Phil Twyford has said the government is unlikely to reach its target of 1,000 by June 2019 – putting the success of the project in jeopardy.
 
