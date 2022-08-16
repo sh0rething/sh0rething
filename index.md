@@ -1,7 +1,7 @@
 # A collection of news articles on New Zealand's property bubble
 
 - [2017](#2017)
-- - [Flipping hell! New Zealand property frenzy as two houses sold five times in four days](#flipping-hell!-new-zealand-property-frenzy-as-two-houses-sold-five-times-in-four-days)
+  - [Flipping hell! New Zealand property frenzy as two houses sold five times in four days](#flipping-hell-new-zealand-property-frenzy-as-two-houses-sold-five-times-in-four-days)
 
 # 2017
 ## Flipping hell! New Zealand property frenzy as two houses sold five times in four days
