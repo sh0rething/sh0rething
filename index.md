@@ -78,6 +78,7 @@ New Zealand is facing a housing affordability crisis which has left home ownersh
 They are now banned from purchasing most types of homes - but they will be able to make limited investments in new apartments in large developments. Foreigners with residency status in New Zealand - as well as non-resident Australian and Singaporean nationals - are not affected by the ban.
 
 The ban follows fears that overseas buyers of homes were putting too much pressure on infrastructure and house prices. Average prices in New Zealand have risen more than 60% in the past 10 years, while in Auckland - the country's largest city - they have almost doubled. In July, the median price for residential property nationwide was NZ$550,000, according to data from the Real Estate Institute of New Zealand. 
+
 ---
 ## It is not a question of whether Auckland's house prices fall, but by how much: Analyst
 Ben Leahy, 16 August 2018 - [NZ Herald](https://www.nzherald.co.nz/nz/it-is-not-a-question-of-whether-aucklands-house-prices-fall-but-by-how-much-analyst/DHYC32PNC7A2MKKO3IIMHWPZ7E/), [Archive](https://archive.ph/SzEtA)
@@ -93,6 +94,16 @@ ASB chief economist Nick Tuffley agreed home values seemed high relative to rent
 REINZ chief executive Bindi Norwell said Auckland prices had remained stable over the past 15 months rather than fallen. REINZ statistics followed a similar pattern to Barfoot & Thompson's figures with a market peak median Auckland home price of $900,000 in March last year and a median price of $835,000 last month.
 
 ---
+## Tight Wellington housing market sees another rise in asking prices
+Thomas Manch, 04 September 2018 - [Stuff](https://www.stuff.co.nz/business/property/106790868/tight-wellington-housing-market-sees-another-rise-in-asking-prices), [Archive](https://archive.ph/6zsuA)
+
+The average asking price for a house in Wellington continues to rise, as the number of houses listed for sale drops. Wellington's average asking price increased 1.7 per cent in August, to $639,553, while some regions have experienced an even sharper rise.
+
+Property website realestate.co.nz, which aggregates a claimed 97 per cent of the country's real estate listings, released August figures for house listings and sales across the country. Of the 19 regions, 11 reached record high average asking prices as the number of houses listed for sale dropped 1.6 per cent in the year to August, to 21,207 for the month.
+
+Realestate.co.nz head of marketing Vanessa Taylor said consistently low housing stock in the capital continued to see an increase in asking prices. "There's nothing to suggest that anything will change too drastically. We haven't had a lot of stock in Wellington and I can't see that changing too much."
+
+---
 ## New Zealand median house prices rose 10 percent in 2018
 Jamie Ensor, 21 December 2018 - [Newshub](https://www.newshub.co.nz/home/new-zealand/2018/12/new-zealand-median-house-prices-rose-10-percent-in-2018.html), [Archive](https://archive.ph/xIqfI)
 
@@ -101,6 +112,100 @@ The Real Estate Institute of New Zealand (REINZ) has released its year in review
 While the Auckland median sale prices increased 5.7 percent from $820,000 to $867,000, Ms Norwell said the city's market has been stabilising around $850,000 "for some time now" and expects a similar picture next year. Despite the higher prices, nationally there were 72,188 property sales over the period, up 4.2 percent.
 
 She told Newshub the market could be determined as being in a "healthy place" due to the decrease in how long it takes to sell a property. The days to sell across New Zealand decreased 23.9 percent from 46 to 35 days.  The decrease was stronger when Auckland is excluded, down 26.1 percent from 46 days to 34. "This means that it's taking a shorter time to sell properties compared to the same time the previous year, which is indicating that the market is in a healthy place," said Ms Norwell.
+
+---
+## NZ house prices are among the most unaffordable in the world: survey
+Susan Edmunds, 21 January 2019 - [Stuff](https://www.stuff.co.nz/business/110049950/auckland-ranked-among-worlds-least-affordable-cities-in-housing-report), [Archive](https://archive.ph/MqoJX)
+
+New Zealand's house prices are among the most unaffordable in the world, a new survey shows.
+
+The Demographia International Housing Affordability Survey rates housing affordability using the "median multiple", a measure of median house price divided by median household income. Authors Wendell Cox and Hugh Pavletich ranks as affordable cities where the median price is up to three times the median wage. Areas are classed as moderately unaffordable when the ratio is up to four, seriously unaffordable between four and five and severely unaffordable when the ratio is more than five times income.
+
+**Auckland, at nine times income, was severely unaffordable, and up from 5.9 in 2004. Auckland is the seventh-least affordable city of the 91 major housing markets surveyed.** The country as a whole also ranks in this range, with a ratio of 6.5.
+
+"In New Zealand, as in Australia, housing had been affordable until approximately a quarter century ago. However, urban containment policies were adopted across the country, and consistent with the international experience, housing became severely unaffordable in all three of New Zealand's largest housing markets, Auckland, Christchurch and Wellington." New Zealand's price-to-income ratio was below three times in the early 1990s.
+
+BNZ chief economist Tony Alexander said the report was no surprise. "Another January and another Demographia report telling us what we already know. Housing affordability in NZ is poor. And what will ensue is another year in which much discussion will occur about the problem but solutions will again fail to appear. As I have been pointing out for upwards of a decade, there are many factors which account for the structural shift upward in the ratio of average house prices to average household income. "One is low interest rates and recently expectations have shifted to borrowing costs remaining lower for longer. That will help underpin prices. So will the ongoing shortage of people in the construction sector." He expected no change in housing affordability this year.
+
+Many of the KiwiBuild homes already completed are languishing on the market, with many considering NZ$525,000 (£273,000) for a two-bedroom home far from affordable. In Auckland and Queenstown – the two most expensive cities in New Zealand – KiwiBuild houses are capped at NZ$500,00 for a one-bedroom home, NZ$600,000 for a two-bed, and NZ$650,000 for three bedrooms or more.
+
+The authors of the Demographia International Housing Affordability survey class a house as affordable if the median price is up to three times the median wage – **making the government’s KiwiBuild houses “severely unaffordable” for most.**
+
+---
+## New Zealand housing crisis: just 47 'affordable' homes built in six months
+Eleanor Ainge Roy, 28 January 2019 - [Guardian](https://www.theguardian.com/world/2019/jan/28/new-zealand-housing-crisis-just-47-affordable-homes-built-in-six-months), [Archive](https://archive.ph/3ybM2)
+
+**Jacinda Ardern’s flagship KiwiBuild policy labelled ‘a failure’ amid delays and claims homes are too expensive**
+
+acinda Ardern’s flagship housing policy is in dire straits after the government admitted it won’t meet its target of building 1,000 affordable homes in its first year – and is set to fall short by 700. New Zealand house prices are among the most unaffordable in the world, with Auckland the seventh most expensive city to buy a home, and all three major cities considered “severely unaffordable” by the latest Demographia international housing affordability survey.
+
+In 2018 the Labour coalition government banned the sale of existing New Zealand homes to overseas buyers and launched its flagship KiwiBuild scheme; aiming to build 100,000 affordable homes in 10 years, with 1,000 of them scheduled for the first year. But since July **just 47 KiwiBuild homes have been completed** – and housing minister Phil Twyford has said the government is unlikely to reach its target of 1,000 by June 2019 – putting the success of the project in jeopardy.
+
+
+
+---
+## Average New Zealand house price reaches all-time high 
+Alice Webb-Liddall, 01 February 2019 - [Newshub](https://www.newshub.co.nz/home/new-zealand/2019/01/average-new-zealand-house-price-reaches-all-time-high.html), [Archive](https://archive.ph/8khYw)
+
+RealEstate.co.nz spokesperson Vanessa Taylor said 12 years ago, the average asking price in New Zealand was around $410,000. It has now risen to a staggering $695,116. "The continuous increases in the national asking prices have largely been led by the Auckland region, but this month it was a diverse mix of eight other regions," Ms Taylor explained.
+
+The areas which hit their all-time highs were Waikato, Gisborne, Wellington, Nelson and Bays, Otago, Southland, Central Northland and Manawatu/Whanganui.
+
+Ms Taylor said these regions rose in price because they "experienced a fall in new listings, and have low overall stock levels, which has helped vendors command handsome prices".
+
+---
+## OECD: House prices biggest risk to New Zealand economy
+Hamish Rutherford, 25 June 2019 - [Stuff](https://www.stuff.co.nz/business/113750716/oecd-report-urges-government-to-focus-on-supply-of-land), [Archive](https://archive.ph/FquJs)
+
+On Tuesday, the Organisation for Economic Co-operation and Development (OECD) released its annual economic survey on New Zealand, which said that the country's wellbeing was "generally high", with strong employment prospects, health and social support. The report found New Zealand was weaker when it came to income and earnings, housing affordability and long working hours. New Zealand's housing market continued to be the biggest potential issue for the economy.
+
+"The main domestic risk is a housing market correction, though there is no evidence of oversupply," the report said. "The effects of a contraction would be magnified by the elevated household debt levels resulting from sustained house price increases."
+
+While the authors acknowledged a raft of measures were underway to increase supply, it pointed to other areas which created barriers, including planning legislation. "Strict regulatory containment policies still impede densification and should be replaced with rules that better align with desired outcomes," the report said.
+
+---
+## New Zealand scraps 'overly ambitious' plan to tackle housing crisis
+Guardian staff, 04 September 2019 - [Guardian](https://www.theguardian.com/world/2019/sep/04/new-zealand-scraps-overly-ambitious-plan-to-tackle-housing-crisis), [Archive](https://archive.ph/gHlxa)
+
+**Major climbdown as Jacinda Ardern’s flagship KiwiBuild policy, designed to provide affordable housing, is dumped**
+
+In a major climb-down for the Labour coalition, the flagship KiwiBuild scheme, which was launched in 2018 by prime minister Jacinda Ardern, was dumped and the housing minister unveiled new policies for grappling with the nation’s housing crisis, with hundreds of Kiwis continuing to live in temporary, inadequate or unsafe housing around the country.
+
+In June, Ardern replaced her housing minister and appointed a team of senior officials to fix New Zealand’s housing problems after KiwiBuild, the government’s flagship project for building 100,000 affordable homes in ten years, missed every several deadline. As of 4 September, the number of homes built was 258, according to KiwiBuild’s website – thousands less than the target.
+
+Woods did not set any new target for KiwiBuild, saying the government would focus on building as many homes as it could, and targets had led to KiwiBuild homes being constructed in towns such as Wanaka that had no market for first-home buyers, and where they now languished empty for months.
+
+The National party’s opposition spokesperson on housing, Judith Collins, said KiwiBuild was embarrassing and an utter fiasco, and KiwiBuild homes paid for by taxpayers would now be sold at a loss to property speculators or holiday home purchasers on the open market. “There were no new initiatives to speed up the delivery of houses. All we got from the new housing minister was a commitment to try harder. It’s meant to be KiwiBuild, not KiwiHope,” said Collins. “Labour talked a big game on housing but has failed to deliver meaningful change.”
+
+New Zealand house prices are among the most unaffordable in the world, with Auckland the seventh most expensive city to buy a home, and all three major cities considered “severely unaffordable” by the latest Demographia international housing affordability survey. Prices have soared nationwide more than 50% over the past decade.
+
+---
+## Rapid house price growth creates a lot more Kiwi millionaires
+RNZ Staff, 08 November 2019 - [RNZ](https://www.rnz.co.nz/news/national/402864/rapid-house-price-growth-creates-a-lot-more-kiwi-millionaires), [Archive](https://archive.ph/gcBIZ)
+
+A global wealth report has revealed that 185,000 New Zealanders - more than the population of Hamilton - can now claim to be millionaires in US dollar terms. According to Credit Suisse's 10th annual Global Wealth Report, this is up from 16,000 in 2010.
+
+But Infometrics senior economist Brad Olsen said most of this wealth was locked up in property. "The really rapid house price growth we've seen over the last couple of years has been the key driver in that change around just how many Kiwis seem to be millionaires or not. "Certainly on paper they might be millionaires. In terms of whether they feel like millionaires in their homes, that might be a different picture."
+
+Mr Olsen said while the richest 20 percent of New Zealanders have seen an increase in their net worth according the latest figures from Statistics New Zealand, the bottom 40 percent have stayed the same. "So the question is, yes we might have more millionaires, but is that because the economy been growing or because house prices have been growing? Is that prosperity being shared, or is it being concentrated in a certain group?"
+
+---
+## Sir John Key sells mansion for $23.5m in what was NZ's second biggest house sale of 2017
+John Anthony, 17 December 2019 - [Stuff](https://www.stuff.co.nz/business/industries/118217206/sir-john-key-sells-mansion-for-235m-in-what-was-nzs-second-biggest-house-sale-of-2017), [Archive](https://archive.ph/1T4DD)
+
+Sir John Key has sold his Auckland mansion for $23.5 million, in what was New Zealand's second most expensive house sale of 2017. The property's most recent CV of $16m was issued by Auckland Council in July 2017, after it was bought by Chen. Annual rates for the property are more than $32,000.
+
+Between 2014 and 2017 the mansion's CV increased nearly 50 per cent thanks to Auckland house prices soaring under a National government led by Key.
+
+---
+## New Zealand house prices jump in February, biggest increase in over four years - REINZ
+Melanie Carroll, 12 March 2020 - [Stuff](https://www.stuff.co.nz/life-style/homed/real-estate/120209439/new-zealand-house-prices-jump-in-february-biggest-increase-in-over-four-years--reinz), [Archive](https://archive.ph/OjH1w)
+
+New Zealand's median house price has risen $80,000 in a year to a record high of $640,000, the Real Estate Institute of New Zealand said on Thursday. That increase is well above the median wage of $52,000. Seven regions posted new record median prices.
+
+"For two months in a row now we've seen every region in the country experience annual median price increases, showing a continuation of the price growth we started to see just before Christmas," said REINZ chief executive Bindi Norwell. The 14.3 per cent increase in the median house price last month was the largest percentage increase in 53 months.
+
+Median house prices for New Zealand excluding Auckland increased by 11.8 per cent to a new record of $550,000, up from $492,000 in February 2019. In Auckland, median house prices increased by 4.3 per cent to $888,000, the highest price in 35 months and up from $851,000 a year earlier.
 
 ---
 ## An economy built on rising house prices: Is property our path to recovery?
@@ -113,3 +218,50 @@ The two politicians danced around the issue under the studio lights. After a mom
 A recent statement from the Reserve Bank’s Monetary Policy Committee suggests figures within the central bank view the buoyant housing market as a useful side-effect of recent decision-making. A summary of the Reserve Bank committee’s latest meeting read: “Some members noted that economic activity in New Zealand has historically been closely correlated with changes in household wealth, and that a stronger housing market may indicate a stronger recovery in consumer spending and residential construction if sustained.” In other words, higher house prices may boost confidence, making Kiwis more comfortable to go out and spend. If the price of their home is going up, people may be more likely to stimulate the economy.
 
 ---
+## Auckland house prices: Buying frenzy tipped after Reserve Bank announcements
+Ben Leahy, 12 November 2020 - [NZ Herald](https://www.nzherald.co.nz/business/auckland-house-prices-buying-frenzy-tipped-after-reserve-bank-announcements/3PY5Y6JZDGHUQAWIZZVHOEEDH4/), [Archive](https://archive.ph/Va8eo)
+
+New Zealand's red-hot housing market could soar to unseen heights this summer as home buyers scramble to buy before tougher home loan lending rules are rushed back in. House prices were already running at record levels in recent months as houses sold for hundreds of thousands of dollars above council valuations and one Remuera home even fetched $4.4 million this week despite being described as a do-up. Now further fuel could be poured on the fire by two Reserve Bank announcements made yesterday.
+
+The Government-backed bank said it was considering bringing back restrictions on so-called loan-to-value-ratios earlier than expected - a move pundits said could bring property investors rushing into the market in greater numbers. It also planned to lend more cheap money to commercial banks, meaning they would likely have more money to in turn lend to home buyers.
+
+Put simply: the two powerful new incentives were likely to give house hunters and investors reason to buy sooner and potentially send prices hiking faster, Ray White Manukau real estate agency owner Tom Rawson said. "You'll see applications for home loan lending go through the roof and over the next few months it will just go nuts again," he said.
+
+Prime Minister Jacinda Ardern recently expressed "worry" at the social impact of high house prices. New Zealand and Auckland hit record median sales prices of $685,000 and $955,000 in September, the Real Estate Institute said. The record prices seemed to be driven by all-time low-interest rates that made home loans cheaper and a "fear of missing out" among buyers.
+
+However, independent economist Tony Alexander cautioned against overstating the importance of LVR restrictions. High-LVR lending only accounted for about one-fifth of total home loan lending in recent months. Alexander consequently expected that once LVR restrictions were back in place they would likely only cool house price growth for a few months. "I'd expect the market to slow down over March, April and May and take off again come June," he said.
+
+---
+## New Zealand reimposes lending curbs over housing bubble fears 
+Jamie Smyth, 25 November 2020 - [Financial Times](https://www.ft.com/content/c9d8caae-a7e3-4f14-8d6d-8743c12fd580), [Archive](https://archive.ph/Drcb7)
+
+New Zealand’s central bank will reimpose mortgage lending restrictions from March amid concerns historically low interest rates are creating a housing bubble in the country. It follows an intervention by the newly elected Labour government, which wrote to the governor of the Reserve Bank of New Zealand asking the bank to consider house price “instability” when setting monetary policy. 
+
+Residential property prices have surged by almost 20 per cent over the past 12 months, pushing the median price of a house in Auckland, New Zealand’s most populous city, above NZ$1m ($700,000) for the first time, industry data shows. Adrian Orr, RBNZ governor, said on Wednesday the bank would reimpose loan-to-value restrictions on lenders that it eased in May. Since then, he noted, there had been an increase in higher risk lending to property investors. 
+
+The surge in house prices poses a political problem for the government of Jacinda Ardern, who pledged to tackle housing affordability during her first term in office. But housing supply remains tightly constrained, pushing up prices, while government plans to build 100,000 homes within a decade were dumped last year after only a few hundred houses were completed.
+
+---
+## Housing market bolts away: Auckland up 16.3% to hit $1m, NZ prices up 19.8%
+Anne Gibson, 12 November 2020 - [NZ Herald](https://www.nzherald.co.nz/business/housing-market-bolts-away-auckland-up-163-to-hit-1m-nz-prices-up-198/F5R3TDOLRDZAY6E3D2IZYVZ62M/), [Archive](https://archive.ph/mqOj3)
+
+New Zealand's super-charged housing market has rocketed even further ahead, with Auckland's median hitting $1 million for the first time. National prices have also risen almost 20 per cent in a year.
+
+The Reserve Bank is being tipped to reintroduce loan-to-value ratios to restrict lending once again, as new Real Estate Institute data for October showed Auckland house prices bolted ahead 16.3 per cent annually from $860,000 to the new six-figure average. The national median shot up 19.8 per cent from $605,000 last year to $725,000 last month.
+
+"October will go down in housing history as being the point in time when Auckland region's median house price hit the million-dollar mark for the first time – something no one anticipated or expected just six months after the entire country came out of lockdown," said REINZ chief executive Bindi Norwell.
+
+Norwell worried about Auckland prices: "While this is a significant milestone, it raises serious questions around future affordability for Auckland residents wanting to get a foot on the property ladder."
+
+The REINZ House Price Index for New Zealand, which measures changing values, increased 13.5 per cent annually to 3248. That is a new high for the index. The HPI for New Zealand excluding Auckland showed house price values increased 12 per cent from October 2019 to 3203 - also a new high.
+
+---
+## Government forecasts five years of big house price growth but there is some good news
+Thomas Coughlan, 16 December 2020 - [Stuff](https://www.stuff.co.nz/national/politics/300185131/government-forecasts-five-years-of-big-house-price-growth-but-there-is-some-good-news), [Archive](https://archive.ph/JYOH1)
+
+Treasury has given Finance Minister Grant Robertson an early Christmas present in the form of a rosy economic outlook for the next four years, although a skyrocketing house price growth has forced the Government into announcing a housing package early in the new year. Do not expect a bargain in the housing market any time soon – in fact, housing will only become more unaffordable with prices rising at double the rate of wages.
+
+Before the election, Treasury was forecasting a brief dip in house prices. Having been proved well and truly wrong, it is now expecting rampant house price growth over the next five years. Next year, prices are expected to grow four times faster than wages and five times faster than the economy as a whole, rising 8.5 per cent. 
+
+---
+
