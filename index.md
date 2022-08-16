@@ -1,8 +1,11 @@
 # A collection of news articles chronicling New Zealand’s property bubble
 
 "*These are problems of success. It's a positive problem to have.*" - Bill English, Acting Prime Minister
+
 "*The fact we're talking here and complaining about house prices or these types of activities, that's a problem but it's a first-class problem.*" - Adrian Orr, RBNZ Governor
+
 "*It is much more sustainable to have those much smaller increases. I think people expect that you see that in the market.*" - Jacinda Ardern, Prime Minister
+
 "*The Government should not leave the housing crisis to the Reserve Bank. John Key needs to build more houses in Auckland. Instead he is fiddling with the RMA while Auckland's housing market is on fire.*" - Grant Robertson, Labour Finance Spokesperson, 2015
 
 
