@@ -304,6 +304,16 @@ The median price of a home in January jumped to 730,000 New Zealand dollars ($54
 Those prices are high under almost any comparison with other developed nations, especially considering most New Zealand homes do not come with double glazing, central heating or other features considered standard in much of North America and Europe.
 
 ---
+## Housing affordability at worst point in 'at least 17 years'
+Miriam Bell, 25 February 2021 - [Stuff](https://www.stuff.co.nz/life-style/homed/real-estate/124350937/housing-affordability-at-worst-point-in-at-least-17-years), [Archive](https://archive.ph/38fKk)
+
+New housing affordability data shows the country's house price-to-income ratio has climbed to its equal highest point since data gathering began in 2004.
+
+The latest CoreLogic Housing Affordability report puts the average house price-to-average household income ratio in the last quarter of 2020 at 6.8 nationally. That’s the highest level since late 2016 and in 2004, when it was also 6.8.
+
+While Corelogic’s data only goes back to 2004, Davidson said his sense was that housing affordability was probably at its worst ever - even though mortgage rates in the 1980s were in the 20 per cent range.
+
+---
 ## New Zealand moves to rein in runaway housing market with billion dollar plan
 Elle Hunt, 22 March 2021 - [Guardian](https://www.theguardian.com/world/2021/mar/23/new-zealand-moves-to-rein-in-runaway-housing-market-with-billion-dollar-plan), [Archive](https://archive.ph/CEp94)
 
@@ -353,14 +363,141 @@ In April, global financial ratings agency Standard and Poor's said it believed N
 Quotable Value general manager David Nagel said there was likely to be a cooling in house price growth in the second half of the year, but any significant change was unlikely soon. “Though most people would like to see property prices stabilise or even drop a little bit, nobody should want to see a long sharp drop. The effect of our housing bubble popping could be catastrophic – not just for the wider economy at large, but for the lives of normal everyday New Zealanders everywhere.”
 
 ---
+## Average house price tops $1 million in Wellington
+RNZ staff, 01 June 2021 - [RNZ](https://www.rnz.co.nz/news/national/443827/average-house-price-tops-1-million-in-wellington), [Archive](https://archive.ph/KZIfC)
+
+Average house values in the Wellington region have topped $1 million but the latest CoreLogic House Price Index shows some slowdown in the growth of those values. Nationally, values increased 2.2 percent in May, a slight reduction on April's 3.1 percent growth rate.
+
+CoreLogic head of research Nick Goodall said that reflected the impact of both the Reserve Bank's tightening of loan-to-value ratios and the government's changes to the interest deductibility rules for residential investment properties.
+
+CoreLogic said growth in values in Auckland was slowing, at 1.4 percent monthly and 5.5 percent quarterly. That put the average house value for the region over $1.25m.
+
+---
+## NZ number two in international house price growth ranks
+Miriam Bell, 04 June 2021 - [Stuff](https://www.stuff.co.nz/life-style/homed/real-estate/125348365/nz-number-two-in-international-house-price-growth-ranks), [Archive](https://archive.ph/sE0U7)
+
+House price growth in New Zealand is running at the second-fastest rate in the world, an international property consultancy says. The Knight Frank Global House Price Index shows that, in the first quarter of this year, house prices globally were up 7.3 per cent in the year to March 2021. New Zealand hit 22.1 per cent.
+
+New Zealand’s rampant market has already attracted international attention this year. In April, Bloomberg reported it as one of the least affordable in the world, while the 2021 annual Demographia international housing affordability report ranked Auckland’s market as the fourth least affordable in the world.
+
+---
+## House prices in Australia and New Zealand among world’s fastest growing in 2021
+Soofia Tariq, 10 June 2021 - [Guardian](https://www.theguardian.com/australia-news/2021/jun/10/house-prices-in-australia-and-new-zealand-among-worlds-fastest-growing-in-2021), [Archive](https://archive.ph/N7HhH)
+
+New figures released by Knight Frank in their global house price index show for the first quarter of 2021, global housing prices increased by an average of 7.3% across 53 countries. Thirteen countries recorded double-digit growth over the year, with Turkey highest at 32% in twelve months and for the fifth consecutive quarter, followed by New Zealand at 22.1%.
+
+---
+## New Zealand commission launches inquiry into ‘massive human rights failure’ on housing
+Tess McClure, 02 August 2021 - [Guardian](https://www.theguardian.com/world/2021/aug/02/new-zealand-commission-launches-inquiry-into-massive-human-rights-failure-on-housing), [Archive](https://archive.ph/aOnOz)
+
+New Zealand’s housing crisis has become a “massive human rights failure”, the Human Rights Commission has said, as it launches a national inquiry into the problem. “Successive governments have failed New Zealanders,” chief commissioner Paul Hunt said in a statement as he announced the inquiry. “New Zealand governments have signed up to a critically important human right: the right to a decent home. For generations, they have promised to create the conditions to enable everyone to live in a decent home, but this has not happened.”
+
+The national average asking price hit an all-time high of $893,794. Auckland is now considered one of the world’s least affordable housing markets, with median house prices about 10 times median income.
+
+“For many people, especially young people, the goal of an affordable, healthy, accessible home has actually become more remote,’’ Hunt said. ‘‘These serial governments bear a heavy responsibility for this massive human rights failure, which is blighting lives and communities.
+
+Last year, the United Nations’ special rapporteur on the right to adequate housing, Leilani Farha, visited New Zealand and called the housing situation there “a human rights crisis” and “a dark shadow that hangs over the country”.
+
+---
+## Cooling measures doing little to slow New Zealand's housing boom
+Praveen Menon, 06 August 2021 - [Reuters](https://www.reuters.com/world/asia-pacific/cooling-measures-doing-little-slow-new-zealands-housing-boom-2021-08-06/), [Archive](https://archive.ph/mMCmP)
+
+Desperation among homebuyers is pushing New Zealand house prices to record highs, overpowering the government's efforts to rein in the red-hot market and putting in jeopardy a key policy promise by Prime Minister Jacinda Ardern.
+
+Nearly 15,000 homes sold for more than NZ$1 million ($705,100) during the last 12 months, compared with just 5,500 in 2020, according to the Real Estate Institute of New Zealand’s (REINZ) Million Dollar Price Report.
+
+In the capital, Wellington, a 50-year-old derelict house deemed "too dangerous to enter" sold for almost NZ$1 million - a price far higher than expected.
+
+"The new owners didn't step foot inside before purchasing it... even we could not enter," said Ben Atwill of real estate group Ray White, which made the sale. "From what I am seeing, there is no stopping the premium dollars from coming through."
+
+Such runaway home prices have made New Zealand's property market one of the most unaffordable in the world, and measures introduced by the government and the central bank have so far done little to cool demand.
+
+---
+## New Zealand median house prices skyrocket 25 percent in a single year to new record high 
+Matt Burrows, 12 August 2021 - [Newshub](https://www.newshub.co.nz/home/money/2021/08/new-zealand-median-house-prices-skyrocket-25-percent-in-a-single-year-to-new-record-high.html), [Archive](https://archive.ph/t0o0a)
+
+New Zealand's overheated property market has shattered another record, with house prices skyrocketing by more than 25 percent in the last year alone.
+
+The latest data from the Real Estate Institute of New Zealand (REINZ) shows that in the 12 months to July 2021, median prices for residential property nationwide increased from $659,500 to $826,000. That eye-watering 25.2 percent rise represents an average capital gain of $166,500 for Kiwi homeowners - more than double what the average full-time employee earns annually.
+
+Auckland again reached a new median house price record - $1.175 million, a 28 percent lift on the $918,000 it was at 12 months prior. "The region also saw a 2.2 percent increase from $1,150,000 in June 2021," REINZ explained in a press release.
+
+REINZ's House Price Index (HPI) - an analytic tool measuring total housing market activity - increased 30.6 percent year-on-year to 3937 in July. That was a new high and the highest annual percentage increase since records began.
+
+The July HPI result also marks the 14th consecutive month there's been a new high, which REINZ says shows the continued strength of the market.
+
+---
+## Bank makes prediction for when NZ house prices will start falling 
+Dan Satherley & Caitlin Ellis, 17 August 2021 - [Newshub](https://www.newshub.co.nz/home/money/2021/08/bank-makes-prediction-for-when-nz-house-prices-will-start-falling.html), [Archive](https://archive.ph/Eq066)
+
+A major bank is picking house prices to start declining as interest rates "get back to something more like normal", and tax changes aimed at evening the playing field between owner-occupiers and investors come into force. 
+
+But Westpac forecasts the declines won't come until 2023, and won't be anywhere near large enough to make up for the rapid price inflation of the last 18 months.
+
+"We're expecting the cash rate to be going up in the coming months," Westpac chief economist Michael Gordon told Newshub. "Regardless of what happens with the decision on Wednesday - there's been speculation that it might not just be a 25 basis-point move, it might be 50 - either way I think we'll be looking at a cash rate of 1 percent by the end of this year, and further increases after that as the Reserve Bank looks to back out of the stimulus it put in place last year and get back to something more like normal."
+
+Gordon said the low OCR, designed to encourage borrowing and investment, has been the biggest factor in the rapid rise in house prices. 
+
+"A lot of the 30 percent rise in house prices we saw over the last year was really about those record-low mortgage rates… the shortage of housing was a factor, but that's not something that suddenly came on in the last year. It was very much about the low borrowing cost side of the equation. We think it will work quite strongly in the other direction too."
+
+The most house prices will fall in a single year, according to Westpac, is about 4 percent. By 2025, they'll be stable or rising again. 
+
+---
 ## New Zealand Raises Interest Rates as Inflation, Housing Pressures Build
 Stephen Wright, 06 October 2021 - [Wall Street Journal](https://www.wsj.com/articles/new-zealands-central-bank-raises-interest-rates-11633484873), [Archive](https://archive.ph/JZ2uo)
 
-The Reserve Bank of New Zealand lifted its benchmark rate to 0.5% from a record-low 0.25% and signaled more increases over the next year, as it seeks to tame inflation stoked by higher oil prices, rising transport costs and supply-chain disruptions. It said the increase would also drive up mortgage rates and so help cool house prices, **up about 30% over the past year.**
+The Reserve Bank of New Zealand lifted its benchmark rate to 0.5% from a record-low 0.25% and signaled more increases over the next year, as it seeks to tame inflation stoked by higher oil prices, rising transport costs and supply-chain disruptions. It said the increase would also drive up mortgage rates and so help cool house prices, up about 30% over the past year.
 
 New Zealand’s response to the pandemic ignited a local housing boom. The cost of building a new home was the biggest contributor to inflation in the three months through June, with companies reporting shortages of construction materials and rising labor costs. In March last year, the central bank lowered its cash rate by 0.75 percentage point to 0.25% to prop up activity. That made new home loans more attractive to owner-occupiers and speculators. New Zealand’s rise in median home prices over the past year is one of the fastest among the 38 member countries of the Organization for Economic Cooperation and Development.
 
 The central bank in August projected the cash rate would reach 1.6% by the end of 2022 and 2.0% in the second half of 2023, though some economists doubt it will exceed 1.5%. New projections aren’t due until late November.
 
 ---
+## Housing prices pose risk to New Zealand's financial stability, RBNZ governor says
+RNZ staff, 02 November 2021 - [RNZ](https://www.rnz.co.nz/news/business/454741/housing-prices-pose-risk-to-new-zealand-s-financial-stability-rbnz-governor-says), [Archive](https://archive.ph/qzGTJ)
+
+In a speech at the Property Council of New Zealand's retail conference, the central bank's governor Adrian Orr said house prices are currently unsustainable and posed risks to the country's financial stability.
+
+Homes in New Zealand are the most unaffordable among OECD nations, with prices soaring about 30 percent in 12 months due to an acute housing shortage, historically low interest rates and cheap access to capital from the government's pandemic-driven stimulus spending.
+
+There was no one agency or silver bullet to fix the problem, with affordability and prices affected by not only supply and demand factors, but also immigration, tax policy, government benefits or transfers, land availability, building standards, infrastructure and training programmes, Orr said.
+
+He also said the role of the Reserve Bank in the market was "bit part".
+
+"We are one cause of demand changes as we alter interest rates to meet our monetary policy remit. We also work to limit mortgage lending when it appears excessively risky. However, this is more about limiting the damage to banks' balance sheets, rather than altering overall demand."
+
+---
+## Treasury predicts house prices to increase more than 10 pct in 2022
+Zane Small, 15 December 2021 - [Newshub](https://www.newshub.co.nz/home/politics/2021/12/treasury-predicts-house-prices-to-increase-more-than-10-pct-in-2022.html), [Archive](https://archive.ph/nrHRE)
+
+New Zealand's lead advisor to the Government on economic and financial policy expects house prices to increase more than 10 percent in 2022 - after a 29 percent rise in 2021. Treasury's latest economic and fiscal update, known as HYEFU, shows house prices are forecast to increase 10.4 percent next year, meaning the median house price - currently $925,000 - will rise to more than $1 million. 
+
+And it could be even worse. In Treasury's Budget update in May, it forecast house prices to rise by 17.3 percent, but its latest update shows prices went up by 29 percent. That means the 10.4 percent increase tipped for next year could prove to be a major underestimation. The 29 percent increase was the fastest since the 1980s. It occurred despite near-zero net migration and booming residential construction activity that increased supply. 
+
+Home ownership rates have continued to fall - 44 percent of people aged 25 to 29 lived in owner-occupied homes, down from 61 percent in 1990. 
+
+A recent survey by data insights firm Kantar showed two out of five Kiwis wanted the Government to forcibly bring down house prices. It reflected the latest Ipsos New Zealand Issues Monitor findings that showed housing was the top issue for Kiwis despite the COVID-19 pandemic.
+
+---
+## Infometrics says millennial first home buyers are signing up for a lifetime of debt and are likely to be much worse off than the baby boomers
+Greg Niness, 23 June 2022 - [Interest](https://www.interest.co.nz/property/116461/infometrics-says-millennial-first-home-buyers-are-signing-lifetime-debt-and-are), [Archive](https://archive.ph/KlF8b)
+
+In a new Housing Update report, Infometrics' Chief Forecaster Gareth Kiernan concludes that this year is the worst time for potential first home buyers to get into the housing market since 1957. Kiernan concludes that baby boomers fared much better from the housing market than today's first home buyers are likely to.
+
+"Our analysis shows that even with mortgage rates below 5%, the average home's million dollar price means that today's first home buyers face much less favourable financial outcomes than a buyer in 1987 did with interest rates of 20%."
+
+"Our analysis suggests that millennials wanting to enter the market now face the least attractive housing prognosis since their grandparents in the 1950s, if not longer," the report says.
+
+---
+## Big reversal in Wellington's house price fortunes as vast majority of suburbs dip
+Ethan Te Ora, 23 June 2022 - [Stuff](https://www.stuff.co.nz/life-style/homed/housing-affordability/129047953/big-reversal-in-wellingtons-house-price-fortunes-as-vast-majority-of-suburbs-dip), [Archive](https://archive.ph/nHvpq)
+
+Few have escaped Wellington’s housing downturn as the vast majority of Wellington’s suburbs recorded a fall in price over the past three months.  Professionals Redcoats real estate agent Alice Pearson, who is also based in Lower Hutt, believed the figures understated the true decline. “What we’re seeing on the ground is closer to a fall between 15% and 20%,” she said.
+
+Even a 5% decrease, it’s important to note, is a minor ding in the housing price armour. An equivalent decrease in Wellington City, for instance, would place the average house price at $1.13m – bringing prices back in line with April 2021.
+
+---
+## Why the New Zealand housing market is nowhere near crash point
+Catherine Masters, 17 July 2022 - [OneRoof](https://www.oneroof.co.nz/news/41842)
+
 
