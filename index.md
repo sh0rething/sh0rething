@@ -1,6 +1,13 @@
+# A collection of news articles chronicling New Zealand’s property bubble
+
+"*These are problems of success. It's a positive problem to have.*" - Bill English, Acting Prime Minister
+"*The fact we're talking here and complaining about house prices or these types of activities, that's a problem but it's a first-class problem.*" - Adrian Orr, RBNZ Governor
+"*It is much more sustainable to have those much smaller increases. I think people expect that you see that in the market.*" - Jacinda Ardern, Prime Minister
+"*The Government should not leave the housing crisis to the Reserve Bank. John Key needs to build more houses in Auckland. Instead he is fiddling with the RMA while Auckland's housing market is on fire.*" - Grant Robertson, Labour Finance Spokesperson, 2015
 
 
-# Table of Contents
+
+## Table of Contents
 
 - [2017](#2017)
   - [Flipping hell! New Zealand property frenzy as two houses sold five times in four days](#flipping-hell-new-zealand-property-frenzy-as-two-houses-sold-five-times-in-four-days)
@@ -54,7 +61,7 @@
 
 # 2017
 ## Flipping hell! New Zealand property frenzy as two houses sold five times in four days
-Eleanor Ainge Roy, 18 January 2017 - [Guardian](https://www.theguardian.com/world/2017/jan/18/flipping-hell-new-zealand-property-frenzy-as-two-houses-sold-five-times-in-four-days), [Archive](https://archive.ph/kPqoP)
+Eleanor Ainge Roy, 18 January 2017 - [Guardian](https://www.theguardian.com/world/2017/jan/18/flipping-hell-new-zealand-property-frenzy-as-two-houses-sold-five-times-in-four-days), [Archive](https://archive.ph/kPqoP), [Return to Top](#table-of-contents)
 
 An investigation has been launched into how two Auckland homes were sold five times in four days as the practice of “flipping” continues to boom in New Zealand’s largest city and hottest property market. Flipping is loosely defined as properties which are sold twice or more within a single year, and properties sold twice or more within the space of six months raise particular concerns for regulators. 
 
@@ -64,7 +71,7 @@ Nick Goodall, a senior research analyst for CoreLogic, said while contemporaneou
 
 ---
 ## Goldman Sachs: New Zealand houses most over-valued
-Susan Edmunds, 16 May 2017 - [Stuff](https://www.stuff.co.nz/business/92642259/goldman-sachs-new-zealand-houses-most-overvalued), [Archive](https://archive.ph/F5tOm)
+Susan Edmunds, 16 May 2017 - [Stuff](https://www.stuff.co.nz/business/92642259/goldman-sachs-new-zealand-houses-most-overvalued), [Archive](https://archive.ph/F5tOm), [Return to Top](#table-of-contents)
 
 Investment bank Goldman Sachs says there is a 40 per cent chance New Zealand will suffer a housing market "bust" in the next two years. It has put out a report that looks at housing markets in the G-10 countries, according to Bloomberg. It reportedly found New Zealand's was the most over-valued and at risk of correction. But to qualify as a "bust", prices would only have to fall 5 per cent or more, after inflation.
 
@@ -78,7 +85,7 @@ ASB senior economist Chris Tennent-Brown said even a 10 per cent to 15 per cent 
 
 ---
 ## Where NZ ranks now with Chinese real estate buyers: popularity change
-Anne Gibson, 22 August 2017 - [NZ Herald](https://www.nzherald.co.nz/business/where-nz-ranks-now-with-chinese-real-estate-buyers-popularity-change/6GF53EX4XTTX6MFFZ7F3AX6ONI/), [Archive](https://archive.ph/GfI45)
+Anne Gibson, 22 August 2017 - [NZ Herald](https://www.nzherald.co.nz/business/where-nz-ranks-now-with-chinese-real-estate-buyers-popularity-change/6GF53EX4XTTX6MFFZ7F3AX6ONI/), [Archive](https://archive.ph/GfI45), [Return to Top](#table-of-contents)
 
 Chinese buyer appetite for New Zealand property remains strong because this country's real estate is "good value", a real estate chief says, but we have slipped in popularity lately. Jane Lu, Australia and New Zealand chief for Chinese real estate business Juwai, said for Chinese buyers, New Zealand ranked as the sixth most popular country globally, behind the United States, Australia, Thailand, Canada and the United Kingdom.
 
@@ -98,7 +105,7 @@ New government policies are predicted to put the brakes on an already slowing pr
 
 ---
 ## MBIE figures show nationwide housing shortage of 71,000
-Corazon Miller, 03 November 2017 - [NZ Herald](https://www.nzherald.co.nz/business/mbie-figures-show-nationwide-housing-shortage-of-71000/55NUUYNFWZA3OJTTDCHF7W3T4I/), [Archive](https://archive.ph/Rqg8m)
+Corazon Miller, 03 November 2017 - [NZ Herald](https://www.nzherald.co.nz/business/mbie-figures-show-nationwide-housing-shortage-of-71000/55NUUYNFWZA3OJTTDCHF7W3T4I/), [Archive](https://archive.ph/Rqg8m), [Return to Top](#table-of-contents)
 
 New Zealand needs 71,000 more houses - more than half of them in Auckland - the country's biggest city. Nationwide Ministry of Business, Innovation and Employment figures released to the Herald show there is a shortage of 71,194 houses - 44,738 are needed in Auckland alone. The next biggest housing shortfall was in greater Wellington with a shortage of 9312 properties - less than a quarter of what's needed in Auckland.
 
@@ -109,7 +116,7 @@ The new Labour-led government plans to build 100,000 new homes in the next 10 ye
 ---
 # 2018
 ## Auckland's middle class plummeting down property ladder
-Dileepa Fonseka, 02 July 2018 - [Stuff](https://www.stuff.co.nz/auckland/105169816/aucklands-middle-class-plummeting-down-property-ladder), [Archive](https://archive.ph/1ESvt)
+Dileepa Fonseka, 02 July 2018 - [Stuff](https://www.stuff.co.nz/auckland/105169816/aucklands-middle-class-plummeting-down-property-ladder), [Archive](https://archive.ph/1ESvt), [Return to Top](#table-of-contents)
 
 Auckland's middle class have seen a huge drop in their ability to own the home of their choice. Auckland Council has released a report _Who can buy Auckland's houses_ \[which\] analyses housing affordability at 10 and 20 per cent deposit rates for different income levels. 
 
@@ -123,7 +130,7 @@ Housing affordability has fallen across all income groups according to the study
 
 ---
 ## New Zealand bans sales of homes to foreigners
-15 August 2018 - [BBC](https://www.bbc.com/news/world-asia-45199034), [Archive](https://archive.ph/QDpyF)
+15 August 2018 - [BBC](https://www.bbc.com/news/world-asia-45199034), [Archive](https://archive.ph/QDpyF), [Return to Top](#table-of-contents)
 
 New Zealand's parliament has banned many foreigners from buying existing homes in the country - a move aimed at making properties more affordable. The ban only applies to non-residents. Australians and Singaporeans are exempt because of free-trade deals.
 
@@ -135,7 +142,7 @@ The ban follows fears that overseas buyers of homes were putting too much pressu
 
 ---
 ## It is not a question of whether Auckland's house prices fall, but by how much: Analyst
-Ben Leahy, 16 August 2018 - [NZ Herald](https://www.nzherald.co.nz/nz/it-is-not-a-question-of-whether-aucklands-house-prices-fall-but-by-how-much-analyst/DHYC32PNC7A2MKKO3IIMHWPZ7E/), [Archive](https://archive.ph/SzEtA)
+Ben Leahy, 16 August 2018 - [NZ Herald](https://www.nzherald.co.nz/nz/it-is-not-a-question-of-whether-aucklands-house-prices-fall-but-by-how-much-analyst/DHYC32PNC7A2MKKO3IIMHWPZ7E/), [Archive](https://archive.ph/SzEtA), [Return to Top](#table-of-contents)
 
 Australasian Trading Management warned investors in its Daily Market Insights home values had "already pulled back significantly" in Australia's hot Sydney and Melbourne markets and the "price correction" was spreading to Auckland. It pointed to figures by Auckland agents Barfoot & Thompson, showing the city's median home value hit $810,000 last month - a 10 per cent fall from the market peak price of $900,000 in March last year.
 
@@ -149,7 +156,7 @@ REINZ chief executive Bindi Norwell said Auckland prices had remained stable ove
 
 ---
 ## Tight Wellington housing market sees another rise in asking prices
-Thomas Manch, 04 September 2018 - [Stuff](https://www.stuff.co.nz/business/property/106790868/tight-wellington-housing-market-sees-another-rise-in-asking-prices), [Archive](https://archive.ph/6zsuA)
+Thomas Manch, 04 September 2018 - [Stuff](https://www.stuff.co.nz/business/property/106790868/tight-wellington-housing-market-sees-another-rise-in-asking-prices), [Archive](https://archive.ph/6zsuA), [Return to Top](#table-of-contents)
 
 The average asking price for a house in Wellington continues to rise, as the number of houses listed for sale drops. Wellington's average asking price increased 1.7 per cent in August, to $639,553, while some regions have experienced an even sharper rise.
 
@@ -159,7 +166,7 @@ Realestate.co.nz head of marketing Vanessa Taylor said consistently low housing 
 
 ---
 ## New Zealand median house prices rose 10 percent in 2018
-Jamie Ensor, 21 December 2018 - [Newshub](https://www.newshub.co.nz/home/new-zealand/2018/12/new-zealand-median-house-prices-rose-10-percent-in-2018.html), [Archive](https://archive.ph/xIqfI)
+Jamie Ensor, 21 December 2018 - [Newshub](https://www.newshub.co.nz/home/new-zealand/2018/12/new-zealand-median-house-prices-rose-10-percent-in-2018.html), [Archive](https://archive.ph/xIqfI), [Return to Top](#table-of-contents)
 
 The Real Estate Institute of New Zealand (REINZ) has released its year in review, revealing some interesting insights into the market which the organisation's chief executive Bindi Norwell has called "healthy". Between January and November 2018, the national median sale price increased 10.6 percent from $520,000 to $575,000. But that is down from the 11.2 per cent increase that house prices jumped during the same period in 2017.
 
@@ -170,7 +177,7 @@ She told Newshub the market could be determined as being in a "healthy place" du
 ---
 # 2019
 ## NZ house prices are among the most unaffordable in the world: survey
-Susan Edmunds, 21 January 2019 - [Stuff](https://www.stuff.co.nz/business/110049950/auckland-ranked-among-worlds-least-affordable-cities-in-housing-report), [Archive](https://archive.ph/MqoJX)
+Susan Edmunds, 21 January 2019 - [Stuff](https://www.stuff.co.nz/business/110049950/auckland-ranked-among-worlds-least-affordable-cities-in-housing-report), [Archive](https://archive.ph/MqoJX), [Return to Top](#table-of-contents)
 
 New Zealand's house prices are among the most unaffordable in the world, a new survey shows.
 
@@ -188,7 +195,7 @@ The authors of the Demographia International Housing Affordability survey class 
 
 ---
 ## New Zealand housing crisis: just 47 'affordable' homes built in six months
-Eleanor Ainge Roy, 28 January 2019 - [Guardian](https://www.theguardian.com/world/2019/jan/28/new-zealand-housing-crisis-just-47-affordable-homes-built-in-six-months), [Archive](https://archive.ph/3ybM2)
+Eleanor Ainge Roy, 28 January 2019 - [Guardian](https://www.theguardian.com/world/2019/jan/28/new-zealand-housing-crisis-just-47-affordable-homes-built-in-six-months), [Archive](https://archive.ph/3ybM2), [Return to Top](#table-of-contents)
 
 **Jacinda Ardern’s flagship KiwiBuild policy labelled ‘a failure’ amid delays and claims homes are too expensive**
 
@@ -200,7 +207,7 @@ In 2018 the Labour coalition government banned the sale of existing New Zealand 
 
 ---
 ## Average New Zealand house price reaches all-time high 
-Alice Webb-Liddall, 01 February 2019 - [Newshub](https://www.newshub.co.nz/home/new-zealand/2019/01/average-new-zealand-house-price-reaches-all-time-high.html), [Archive](https://archive.ph/8khYw)
+Alice Webb-Liddall, 01 February 2019 - [Newshub](https://www.newshub.co.nz/home/new-zealand/2019/01/average-new-zealand-house-price-reaches-all-time-high.html), [Archive](https://archive.ph/8khYw), [Return to Top](#table-of-contents)
 
 RealEstate.co.nz spokesperson Vanessa Taylor said 12 years ago, the average asking price in New Zealand was around $410,000. It has now risen to a staggering $695,116. "The continuous increases in the national asking prices have largely been led by the Auckland region, but this month it was a diverse mix of eight other regions," Ms Taylor explained.
 
@@ -210,7 +217,7 @@ Ms Taylor said these regions rose in price because they "experienced a fall in n
 
 ---
 ## OECD: House prices biggest risk to New Zealand economy
-Hamish Rutherford, 25 June 2019 - [Stuff](https://www.stuff.co.nz/business/113750716/oecd-report-urges-government-to-focus-on-supply-of-land), [Archive](https://archive.ph/FquJs)
+Hamish Rutherford, 25 June 2019 - [Stuff](https://www.stuff.co.nz/business/113750716/oecd-report-urges-government-to-focus-on-supply-of-land), [Archive](https://archive.ph/FquJs), [Return to Top](#table-of-contents)
 
 On Tuesday, the Organisation for Economic Co-operation and Development (OECD) released its annual economic survey on New Zealand, which said that the country's wellbeing was "generally high", with strong employment prospects, health and social support. The report found New Zealand was weaker when it came to income and earnings, housing affordability and long working hours. New Zealand's housing market continued to be the biggest potential issue for the economy.
 
@@ -220,7 +227,7 @@ While the authors acknowledged a raft of measures were underway to increase supp
 
 ---
 ## New Zealand scraps 'overly ambitious' plan to tackle housing crisis
-Guardian staff, 04 September 2019 - [Guardian](https://www.theguardian.com/world/2019/sep/04/new-zealand-scraps-overly-ambitious-plan-to-tackle-housing-crisis), [Archive](https://archive.ph/gHlxa)
+Guardian staff, 04 September 2019 - [Guardian](https://www.theguardian.com/world/2019/sep/04/new-zealand-scraps-overly-ambitious-plan-to-tackle-housing-crisis), [Archive](https://archive.ph/gHlxa), [Return to Top](#table-of-contents)
 
 **Major climbdown as Jacinda Ardern’s flagship KiwiBuild policy, designed to provide affordable housing, is dumped**
 
@@ -236,7 +243,7 @@ New Zealand house prices are among the most unaffordable in the world, with Auck
 
 ---
 ## Rapid house price growth creates a lot more Kiwi millionaires
-RNZ Staff, 08 November 2019 - [RNZ](https://www.rnz.co.nz/news/national/402864/rapid-house-price-growth-creates-a-lot-more-kiwi-millionaires), [Archive](https://archive.ph/gcBIZ)
+RNZ Staff, 08 November 2019 - [RNZ](https://www.rnz.co.nz/news/national/402864/rapid-house-price-growth-creates-a-lot-more-kiwi-millionaires), [Archive](https://archive.ph/gcBIZ), [Return to Top](#table-of-contents)
 
 A global wealth report has revealed that 185,000 New Zealanders - more than the population of Hamilton - can now claim to be millionaires in US dollar terms. According to Credit Suisse's 10th annual Global Wealth Report, this is up from 16,000 in 2010.
 
@@ -246,7 +253,7 @@ Mr Olsen said while the richest 20 percent of New Zealanders have seen an increa
 
 ---
 ## Sir John Key sells mansion for $23.5m in what was NZ's second biggest house sale of 2017
-John Anthony, 17 December 2019 - [Stuff](https://www.stuff.co.nz/business/industries/118217206/sir-john-key-sells-mansion-for-235m-in-what-was-nzs-second-biggest-house-sale-of-2017), [Archive](https://archive.ph/1T4DD)
+John Anthony, 17 December 2019 - [Stuff](https://www.stuff.co.nz/business/industries/118217206/sir-john-key-sells-mansion-for-235m-in-what-was-nzs-second-biggest-house-sale-of-2017), [Archive](https://archive.ph/1T4DD), [Return to Top](#table-of-contents)
 
 Sir John Key has sold his Auckland mansion for $23.5 million, in what was New Zealand's second most expensive house sale of 2017. The property's most recent CV of $16m was issued by Auckland Council in July 2017, after it was bought by Chen. Annual rates for the property are more than $32,000.
 
@@ -255,7 +262,7 @@ Between 2014 and 2017 the mansion's CV increased nearly 50 per cent thanks to Au
 ---
 # 2020
 ## New Zealand average house price tops $700k for first time
-RNZ staff, 07 January 2020 - [RNZ](https://www.rnz.co.nz/news/business/406829/new-zealand-average-house-price-tops-700k-for-first-time), [Archive](https://archive.ph/uaEgT)
+RNZ staff, 07 January 2020 - [RNZ](https://www.rnz.co.nz/news/business/406829/new-zealand-average-house-price-tops-700k-for-first-time), [Archive](https://archive.ph/uaEgT), [Return to Top](#table-of-contents)
 
 Realestate.co.nz said the average asking price for a house in New Zealand had risen above $700,000 for the first time since records began 13 years ago. The average asking price is not a valuation, but an indication of current market sentiment.
 
@@ -263,7 +270,7 @@ Spokesperson Vanessa Taylor says regional New Zealand led the charge, with five 
 
 ---
 ## New Zealand house prices jump in February, biggest increase in over four years - REINZ
-Melanie Carroll, 12 March 2020 - [Stuff](https://www.stuff.co.nz/life-style/homed/real-estate/120209439/new-zealand-house-prices-jump-in-february-biggest-increase-in-over-four-years--reinz), [Archive](https://archive.ph/OjH1w)
+Melanie Carroll, 12 March 2020 - [Stuff](https://www.stuff.co.nz/life-style/homed/real-estate/120209439/new-zealand-house-prices-jump-in-february-biggest-increase-in-over-four-years--reinz), [Archive](https://archive.ph/OjH1w), [Return to Top](#table-of-contents)
 
 New Zealand's median house price has risen $80,000 in a year to a record high of $640,000, the Real Estate Institute of New Zealand said on Thursday. That increase is well above the median wage of $52,000. Seven regions posted new record median prices.
 
@@ -273,7 +280,7 @@ Median house prices for New Zealand excluding Auckland increased by 11.8 per cen
 
 ---
 ## An economy built on rising house prices: Is property our path to recovery?
-Daniel Dunkley, 08 October 2020 - [Stuff](https://www.stuff.co.nz/business/opinion-analysis/300126229/an-economy-built-on-rising-house-prices-is-property-our-path-to-recovery), [Archive](https://archive.ph/Zuf4N)
+Daniel Dunkley, 08 October 2020 - [Stuff](https://www.stuff.co.nz/business/opinion-analysis/300126229/an-economy-built-on-rising-house-prices-is-property-our-path-to-recovery), [Archive](https://archive.ph/Zuf4N), [Return to Top](#table-of-contents)
 
 Are soaring house prices good or bad in the middle of a global recession? Our political leaders seem unsure. At last week’s pre-election debate, Prime Minister Jacinda Ardern and National’s Judith Collins froze as they were asked a “gotcha” question: would they like to see property prices drop?
 
@@ -283,7 +290,7 @@ A recent statement from the Reserve Bank’s Monetary Policy Committee suggests 
 
 ---
 ## Auckland house prices: Buying frenzy tipped after Reserve Bank announcements
-Ben Leahy, 12 November 2020 - [NZ Herald](https://www.nzherald.co.nz/business/auckland-house-prices-buying-frenzy-tipped-after-reserve-bank-announcements/3PY5Y6JZDGHUQAWIZZVHOEEDH4/), [Archive](https://archive.ph/Va8eo)
+Ben Leahy, 12 November 2020 - [NZ Herald](https://www.nzherald.co.nz/business/auckland-house-prices-buying-frenzy-tipped-after-reserve-bank-announcements/3PY5Y6JZDGHUQAWIZZVHOEEDH4/), [Archive](https://archive.ph/Va8eo), [Return to Top](#table-of-contents)
 
 New Zealand's red-hot housing market could soar to unseen heights this summer as home buyers scramble to buy before tougher home loan lending rules are rushed back in. House prices were already running at record levels in recent months as houses sold for hundreds of thousands of dollars above council valuations and one Remuera home even fetched $4.4 million this week despite being described as a do-up. Now further fuel could be poured on the fire by two Reserve Bank announcements made yesterday.
 
@@ -297,7 +304,7 @@ However, independent economist Tony Alexander cautioned against overstating the 
 
 ---
 ## New Zealand reimposes lending curbs over housing bubble fears 
-Jamie Smyth, 25 November 2020 - [Financial Times](https://www.ft.com/content/c9d8caae-a7e3-4f14-8d6d-8743c12fd580), [Archive](https://archive.ph/Drcb7)
+Jamie Smyth, 25 November 2020 - [Financial Times](https://www.ft.com/content/c9d8caae-a7e3-4f14-8d6d-8743c12fd580), [Archive](https://archive.ph/Drcb7), [Return to Top](#table-of-contents)
 
 New Zealand’s central bank will reimpose mortgage lending restrictions from March amid concerns historically low interest rates are creating a housing bubble in the country. It follows an intervention by the newly elected Labour government, which wrote to the governor of the Reserve Bank of New Zealand asking the bank to consider house price “instability” when setting monetary policy. 
 
@@ -307,7 +314,7 @@ The surge in house prices poses a political problem for the government of Jacind
 
 ---
 ## Housing market bolts away: Auckland up 16.3% to hit $1m, NZ prices up 19.8%
-Anne Gibson, 12 November 2020 - [NZ Herald](https://www.nzherald.co.nz/business/housing-market-bolts-away-auckland-up-163-to-hit-1m-nz-prices-up-198/F5R3TDOLRDZAY6E3D2IZYVZ62M/), [Archive](https://archive.ph/mqOj3)
+Anne Gibson, 12 November 2020 - [NZ Herald](https://www.nzherald.co.nz/business/housing-market-bolts-away-auckland-up-163-to-hit-1m-nz-prices-up-198/F5R3TDOLRDZAY6E3D2IZYVZ62M/), [Archive](https://archive.ph/mqOj3), [Return to Top](#table-of-contents)
 
 New Zealand's super-charged housing market has rocketed even further ahead, with Auckland's median hitting $1 million for the first time. National prices have also risen almost 20 per cent in a year.
 
@@ -321,7 +328,7 @@ The REINZ House Price Index for New Zealand, which measures changing values, inc
 
 ---
 ## House prices to double in seven years, and there's nothing Jacinda Ardern can do about it - property expert 
-Dan Satherly, 18 November 2020 - [Newshub](https://www.newshub.co.nz/home/politics/2020/11/house-prices-to-double-in-seven-years-and-there-s-nothing-jacinda-ardern-can-do-about-it-property-expert.html), [Archive](https://archive.ph/R1nJd)
+Dan Satherly, 18 November 2020 - [Newshub](https://www.newshub.co.nz/home/politics/2020/11/house-prices-to-double-in-seven-years-and-there-s-nothing-jacinda-ardern-can-do-about-it-property-expert.html), [Archive](https://archive.ph/R1nJd), [Return to Top](#table-of-contents)
 
 A property investment expert says New Zealand house prices will more than double in the next decade, and there's not a thing the Government can do about it. But Ashley Church, former head of the Property Institute of New Zealand, says that isn't necessarily a bad thing.
 
@@ -333,7 +340,7 @@ Rather than the Government finding a fix, Church says prices will just keep goin
 
 ---
 ## PM Jacinda Ardern gets prickly over Marama Davidson's wealth tax comments, says she is 'concerned' over house prices 
-Vita Molyneux, 23 November 2020 - [Newshub](https://www.newshub.co.nz/home/politics/2020/11/pm-jacinda-ardern-gets-prickly-over-marama-davidson-s-wealth-tax-comments-says-she-is-concerned-over-house-prices.html), [Archive](https://archive.ph/48L0f)
+Vita Molyneux, 23 November 2020 - [Newshub](https://www.newshub.co.nz/home/politics/2020/11/pm-jacinda-ardern-gets-prickly-over-marama-davidson-s-wealth-tax-comments-says-she-is-concerned-over-house-prices.html), [Archive](https://archive.ph/48L0f), [Return to Top](#table-of-contents)
 
 **Jacinda Ardern says one of the things that sets her Government apart from the National Party is Labour's concern over skyrocketing house prices.**
 
@@ -343,7 +350,7 @@ She says when National were in Government "there was not particularly a view tha
 
 ---
 ## Government forecasts five years of big house price growth but there is some good news
-Thomas Coughlan, 16 December 2020 - [Stuff](https://www.stuff.co.nz/national/politics/300185131/government-forecasts-five-years-of-big-house-price-growth-but-there-is-some-good-news), [Archive](https://archive.ph/JYOH1)
+Thomas Coughlan, 16 December 2020 - [Stuff](https://www.stuff.co.nz/national/politics/300185131/government-forecasts-five-years-of-big-house-price-growth-but-there-is-some-good-news), [Archive](https://archive.ph/JYOH1), [Return to Top](#table-of-contents)
 
 Treasury has given Finance Minister Grant Robertson an early Christmas present in the form of a rosy economic outlook for the next four years, although a skyrocketing house price growth has forced the Government into announcing a housing package early in the new year. Do not expect a bargain in the housing market any time soon – in fact, housing will only become more unaffordable with prices rising at double the rate of wages.
 
@@ -352,7 +359,7 @@ Before the election, Treasury was forecasting a brief dip in house prices. Havin
 ---
 # 2021
 ## New Zealand’s virus success unleashes runaway housing prices
-Nick Perry, 25 February 2021 - [AP News](https://apnews.com/article/coronavirus-pandemic-new-zealand-c88b705080e7cfc299581c568e705abd), [Archive](https://archive.ph/Rypn8)
+Nick Perry, 25 February 2021 - [AP News](https://apnews.com/article/coronavirus-pandemic-new-zealand-c88b705080e7cfc299581c568e705abd), [Archive](https://archive.ph/Rypn8), [Return to Top](#table-of-contents)
 
 New Zealand’s success in battling the coronavirus has unleashed an unanticipated problem: skyrocketing house prices. When the pandemic first hit, most experts predicted house prices would fall. Instead, prices have risen by more than 19% over the past year, putting them out of reach for many people wanting to buy their first home.
 
@@ -362,7 +369,7 @@ Those prices are high under almost any comparison with other developed nations, 
 
 ---
 ## Housing affordability at worst point in 'at least 17 years'
-Miriam Bell, 25 February 2021 - [Stuff](https://www.stuff.co.nz/life-style/homed/real-estate/124350937/housing-affordability-at-worst-point-in-at-least-17-years), [Archive](https://archive.ph/38fKk)
+Miriam Bell, 25 February 2021 - [Stuff](https://www.stuff.co.nz/life-style/homed/real-estate/124350937/housing-affordability-at-worst-point-in-at-least-17-years), [Archive](https://archive.ph/38fKk), [Return to Top](#table-of-contents)
 
 New housing affordability data shows the country's house price-to-income ratio has climbed to its equal highest point since data gathering began in 2004.
 
@@ -372,7 +379,7 @@ While Corelogic’s data only goes back to 2004, Davidson said his sense was tha
 
 ---
 ## New Zealand moves to rein in runaway housing market with billion dollar plan
-Elle Hunt, 22 March 2021 - [Guardian](https://www.theguardian.com/world/2021/mar/23/new-zealand-moves-to-rein-in-runaway-housing-market-with-billion-dollar-plan), [Archive](https://archive.ph/CEp94)
+Elle Hunt, 22 March 2021 - [Guardian](https://www.theguardian.com/world/2021/mar/23/new-zealand-moves-to-rein-in-runaway-housing-market-with-billion-dollar-plan), [Archive](https://archive.ph/CEp94), [Return to Top](#table-of-contents)
 
 **Jacinda Ardern announces more support for first homebuyers and measures to dampen property speculation but admits its no ‘silver bullet’**
 
@@ -393,7 +400,7 @@ Almost 1% of the population is ranked as homeless or “severely housing deprive
 
 ---
 ## NZ kills tax loophole on property to slow soaring house prices
-Shane Wright, 23 March 2021 - [Sydney Morning Herald](https://www.smh.com.au/politics/federal/nz-kills-tax-loophole-on-property-to-slow-soaring-house-prices-20210323-p57d9s.html), [Archive](https://archive.ph/e6pL6)
+Shane Wright, 23 March 2021 - [Sydney Morning Herald](https://www.smh.com.au/politics/federal/nz-kills-tax-loophole-on-property-to-slow-soaring-house-prices-20210323-p57d9s.html), [Archive](https://archive.ph/e6pL6), [Return to Top](#table-of-contents)
 
 As part of a suite of measures the Ardern government says is aimed at keeping New Zealand houses affordable for first-time buyers, it will axe the ability of property investors to claim mortgage interest as a tax deduction against rental income.
 
@@ -403,7 +410,7 @@ Deputy PM and Finance Minister Grant Robertson said the recent increase in house
 
 ---
 ## Budget 2021: Sharp house price adjustment coming, says Finance Minister
-Melanie Carroll, 20 May 2021 - [Stuff](https://www.stuff.co.nz/business/industries/125190227/budget-2021-sharp-house-price-adjustment-coming-says-finance-minister), [Archive](https://archive.ph/3kpz7)
+Melanie Carroll, 20 May 2021 - [Stuff](https://www.stuff.co.nz/business/industries/125190227/budget-2021-sharp-house-price-adjustment-coming-says-finance-minister), [Archive](https://archive.ph/3kpz7), [Return to Top](#table-of-contents)
 
 The Government expects house price growth to slow dramatically by the middle of 2022 partly as a result of its housing tax policy changes announced earlier this year. In its economic outlook released in the Budget on Thursday, the Treasury forecast annual house price growth to peak at 17.3 per cent in the June 2021 quarter, and ease to 0.9 per cent by the June 2022 quarter.
 
@@ -421,7 +428,7 @@ Quotable Value general manager David Nagel said there was likely to be a cooling
 
 ---
 ## Average house price tops $1 million in Wellington
-RNZ staff, 01 June 2021 - [RNZ](https://www.rnz.co.nz/news/national/443827/average-house-price-tops-1-million-in-wellington), [Archive](https://archive.ph/KZIfC)
+RNZ staff, 01 June 2021 - [RNZ](https://www.rnz.co.nz/news/national/443827/average-house-price-tops-1-million-in-wellington), [Archive](https://archive.ph/KZIfC), [Return to Top](#table-of-contents)
 
 Average house values in the Wellington region have topped $1 million but the latest CoreLogic House Price Index shows some slowdown in the growth of those values. Nationally, values increased 2.2 percent in May, a slight reduction on April's 3.1 percent growth rate.
 
@@ -431,7 +438,7 @@ CoreLogic said growth in values in Auckland was slowing, at 1.4 percent monthly 
 
 ---
 ## NZ number two in international house price growth ranks
-Miriam Bell, 04 June 2021 - [Stuff](https://www.stuff.co.nz/life-style/homed/real-estate/125348365/nz-number-two-in-international-house-price-growth-ranks), [Archive](https://archive.ph/sE0U7)
+Miriam Bell, 04 June 2021 - [Stuff](https://www.stuff.co.nz/life-style/homed/real-estate/125348365/nz-number-two-in-international-house-price-growth-ranks), [Archive](https://archive.ph/sE0U7), [Return to Top](#table-of-contents)
 
 House price growth in New Zealand is running at the second-fastest rate in the world, an international property consultancy says. The Knight Frank Global House Price Index shows that, in the first quarter of this year, house prices globally were up 7.3 per cent in the year to March 2021. New Zealand hit 22.1 per cent.
 
@@ -439,13 +446,13 @@ New Zealand’s rampant market has already attracted international attention thi
 
 ---
 ## House prices in Australia and New Zealand among world’s fastest growing in 2021
-Soofia Tariq, 10 June 2021 - [Guardian](https://www.theguardian.com/australia-news/2021/jun/10/house-prices-in-australia-and-new-zealand-among-worlds-fastest-growing-in-2021), [Archive](https://archive.ph/N7HhH)
+Soofia Tariq, 10 June 2021 - [Guardian](https://www.theguardian.com/australia-news/2021/jun/10/house-prices-in-australia-and-new-zealand-among-worlds-fastest-growing-in-2021), [Archive](https://archive.ph/N7HhH), [Return to Top](#table-of-contents)
 
 New figures released by Knight Frank in their global house price index show for the first quarter of 2021, global housing prices increased by an average of 7.3% across 53 countries. Thirteen countries recorded double-digit growth over the year, with Turkey highest at 32% in twelve months and for the fifth consecutive quarter, followed by New Zealand at 22.1%.
 
 ---
 ## New Zealand commission launches inquiry into ‘massive human rights failure’ on housing
-Tess McClure, 02 August 2021 - [Guardian](https://www.theguardian.com/world/2021/aug/02/new-zealand-commission-launches-inquiry-into-massive-human-rights-failure-on-housing), [Archive](https://archive.ph/aOnOz)
+Tess McClure, 02 August 2021 - [Guardian](https://www.theguardian.com/world/2021/aug/02/new-zealand-commission-launches-inquiry-into-massive-human-rights-failure-on-housing), [Archive](https://archive.ph/aOnOz), [Return to Top](#table-of-contents)
 
 New Zealand’s housing crisis has become a “massive human rights failure”, the Human Rights Commission has said, as it launches a national inquiry into the problem. “Successive governments have failed New Zealanders,” chief commissioner Paul Hunt said in a statement as he announced the inquiry. “New Zealand governments have signed up to a critically important human right: the right to a decent home. For generations, they have promised to create the conditions to enable everyone to live in a decent home, but this has not happened.”
 
@@ -457,7 +464,7 @@ Last year, the United Nations’ special rapporteur on the right to adequate hou
 
 ---
 ## Cooling measures doing little to slow New Zealand's housing boom
-Praveen Menon, 06 August 2021 - [Reuters](https://www.reuters.com/world/asia-pacific/cooling-measures-doing-little-slow-new-zealands-housing-boom-2021-08-06/), [Archive](https://archive.ph/mMCmP)
+Praveen Menon, 06 August 2021 - [Reuters](https://www.reuters.com/world/asia-pacific/cooling-measures-doing-little-slow-new-zealands-housing-boom-2021-08-06/), [Archive](https://archive.ph/mMCmP), [Return to Top](#table-of-contents)
 
 Desperation among homebuyers is pushing New Zealand house prices to record highs, overpowering the government's efforts to rein in the red-hot market and putting in jeopardy a key policy promise by Prime Minister Jacinda Ardern.
 
@@ -471,7 +478,7 @@ Such runaway home prices have made New Zealand's property market one of the most
 
 ---
 ## New Zealand median house prices skyrocket 25 percent in a single year to new record high 
-Matt Burrows, 12 August 2021 - [Newshub](https://www.newshub.co.nz/home/money/2021/08/new-zealand-median-house-prices-skyrocket-25-percent-in-a-single-year-to-new-record-high.html), [Archive](https://archive.ph/t0o0a)
+Matt Burrows, 12 August 2021 - [Newshub](https://www.newshub.co.nz/home/money/2021/08/new-zealand-median-house-prices-skyrocket-25-percent-in-a-single-year-to-new-record-high.html), [Archive](https://archive.ph/t0o0a), [Return to Top](#table-of-contents)
 
 New Zealand's overheated property market has shattered another record, with house prices skyrocketing by more than 25 percent in the last year alone.
 
@@ -485,7 +492,7 @@ The July HPI result also marks the 14th consecutive month there's been a new hig
 
 ---
 ## Bank makes prediction for when NZ house prices will start falling 
-Dan Satherley & Caitlin Ellis, 17 August 2021 - [Newshub](https://www.newshub.co.nz/home/money/2021/08/bank-makes-prediction-for-when-nz-house-prices-will-start-falling.html), [Archive](https://archive.ph/Eq066)
+Dan Satherley & Caitlin Ellis, 17 August 2021 - [Newshub](https://www.newshub.co.nz/home/money/2021/08/bank-makes-prediction-for-when-nz-house-prices-will-start-falling.html), [Archive](https://archive.ph/Eq066), [Return to Top](#table-of-contents)
 
 A major bank is picking house prices to start declining as interest rates "get back to something more like normal", and tax changes aimed at evening the playing field between owner-occupiers and investors come into force. 
 
@@ -501,7 +508,7 @@ The most house prices will fall in a single year, according to Westpac, is about
 
 ---
 ## New Zealand Raises Interest Rates as Inflation, Housing Pressures Build
-Stephen Wright, 06 October 2021 - [Wall Street Journal](https://www.wsj.com/articles/new-zealands-central-bank-raises-interest-rates-11633484873), [Archive](https://archive.ph/JZ2uo)
+Stephen Wright, 06 October 2021 - [Wall Street Journal](https://www.wsj.com/articles/new-zealands-central-bank-raises-interest-rates-11633484873), [Archive](https://archive.ph/JZ2uo), [Return to Top](#table-of-contents)
 
 The Reserve Bank of New Zealand lifted its benchmark rate to 0.5% from a record-low 0.25% and signaled more increases over the next year, as it seeks to tame inflation stoked by higher oil prices, rising transport costs and supply-chain disruptions. It said the increase would also drive up mortgage rates and so help cool house prices, up about 30% over the past year.
 
@@ -511,7 +518,7 @@ The central bank in August projected the cash rate would reach 1.6% by the end o
 
 ---
 ## Housing prices pose risk to New Zealand's financial stability, RBNZ governor says
-RNZ staff, 02 November 2021 - [RNZ](https://www.rnz.co.nz/news/business/454741/housing-prices-pose-risk-to-new-zealand-s-financial-stability-rbnz-governor-says), [Archive](https://archive.ph/qzGTJ)
+RNZ staff, 02 November 2021 - [RNZ](https://www.rnz.co.nz/news/business/454741/housing-prices-pose-risk-to-new-zealand-s-financial-stability-rbnz-governor-says), [Archive](https://archive.ph/qzGTJ), [Return to Top](#table-of-contents)
 
 In a speech at the Property Council of New Zealand's retail conference, the central bank's governor Adrian Orr said house prices are currently unsustainable and posed risks to the country's financial stability.
 
@@ -525,7 +532,7 @@ He also said the role of the Reserve Bank in the market was "bit part".
 
 ---
 ## Treasury predicts house prices to increase more than 10 pct in 2022
-Zane Small, 15 December 2021 - [Newshub](https://www.newshub.co.nz/home/politics/2021/12/treasury-predicts-house-prices-to-increase-more-than-10-pct-in-2022.html), [Archive](https://archive.ph/nrHRE)
+Zane Small, 15 December 2021 - [Newshub](https://www.newshub.co.nz/home/politics/2021/12/treasury-predicts-house-prices-to-increase-more-than-10-pct-in-2022.html), [Archive](https://archive.ph/nrHRE), [Return to Top](#table-of-contents)
 
 New Zealand's lead advisor to the Government on economic and financial policy expects house prices to increase more than 10 percent in 2022 - after a 29 percent rise in 2021. Treasury's latest economic and fiscal update, known as HYEFU, shows house prices are forecast to increase 10.4 percent next year, meaning the median house price - currently $925,000 - will rise to more than $1 million. 
 
@@ -538,7 +545,7 @@ A recent survey by data insights firm Kantar showed two out of five Kiwis wanted
 ---
 # 2022
 ## Infometrics says millennial first home buyers are signing up for a lifetime of debt and are likely to be much worse off than the baby boomers
-Greg Niness, 23 June 2022 - [Interest](https://www.interest.co.nz/property/116461/infometrics-says-millennial-first-home-buyers-are-signing-lifetime-debt-and-are), [Archive](https://archive.ph/KlF8b)
+Greg Niness, 23 June 2022 - [Interest](https://www.interest.co.nz/property/116461/infometrics-says-millennial-first-home-buyers-are-signing-lifetime-debt-and-are), [Archive](https://archive.ph/KlF8b), [Return to Top](#table-of-contents)
 
 In a new Housing Update report, Infometrics' Chief Forecaster Gareth Kiernan concludes that this year is the worst time for potential first home buyers to get into the housing market since 1957. Kiernan concludes that baby boomers fared much better from the housing market than today's first home buyers are likely to.
 
@@ -548,7 +555,7 @@ In a new Housing Update report, Infometrics' Chief Forecaster Gareth Kiernan con
 
 ---
 ## Big reversal in Wellington's house price fortunes as vast majority of suburbs dip
-Ethan Te Ora, 23 June 2022 - [Stuff](https://www.stuff.co.nz/life-style/homed/housing-affordability/129047953/big-reversal-in-wellingtons-house-price-fortunes-as-vast-majority-of-suburbs-dip), [Archive](https://archive.ph/nHvpq)
+Ethan Te Ora, 23 June 2022 - [Stuff](https://www.stuff.co.nz/life-style/homed/housing-affordability/129047953/big-reversal-in-wellingtons-house-price-fortunes-as-vast-majority-of-suburbs-dip), [Archive](https://archive.ph/nHvpq), [Return to Top](#table-of-contents)
 
 Few have escaped Wellington’s housing downturn as the vast majority of Wellington’s suburbs recorded a fall in price over the past three months.  Professionals Redcoats real estate agent Alice Pearson, who is also based in Lower Hutt, believed the figures understated the true decline. “What we’re seeing on the ground is closer to a fall between 15% and 20%,” she said.
 
@@ -556,6 +563,6 @@ Even a 5% decrease, it’s important to note, is a minor ding in the housing pri
 
 ---
 ## Why the New Zealand housing market is nowhere near crash point
-Catherine Masters, 17 July 2022 - [OneRoof](https://www.oneroof.co.nz/news/41842)
+Catherine Masters, 17 July 2022 - [OneRoof](https://www.oneroof.co.nz/news/41842), [Return to Top](#table-of-contents)
 
 
