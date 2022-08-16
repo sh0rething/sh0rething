@@ -1,5 +1,7 @@
+# A collection of news articles on New Zealand's property bubble
+
 ## Flipping hell! New Zealand property frenzy as two houses sold five times in four days
-Eleanor Ainge Roy, 18 January 2017 - [Guardian](https://www.theguardian.com/world/2017/jan/18/flipping-hell-new-zealand-property-frenzy-as-two-houses-sold-five-times-in-four-days),[Archive](https://archive.ph/kPqoP)
+Eleanor Ainge Roy, 18 January 2017 - [Guardian](https://www.theguardian.com/world/2017/jan/18/flipping-hell-new-zealand-property-frenzy-as-two-houses-sold-five-times-in-four-days), [Archive](https://archive.ph/kPqoP)
 
 An investigation has been launched into how two Auckland homes were sold five times in four days as the practice of “flipping” continues to boom in New Zealand’s largest city and hottest property market. Flipping is loosely defined as properties which are sold twice or more within a single year, and properties sold twice or more within the space of six months raise particular concerns for regulators. 
 
@@ -9,7 +11,7 @@ Nick Goodall, a senior research analyst for CoreLogic, said while contemporaneou
 
 ---
 ## Goldman Sachs: New Zealand houses most over-valued
-Susan Edmunds, 16 May 2017 - [Stuff](https://www.stuff.co.nz/business/92642259/goldman-sachs-new-zealand-houses-most-overvalued),[Archive](https://archive.ph/F5tOm)
+Susan Edmunds, 16 May 2017 - [Stuff](https://www.stuff.co.nz/business/92642259/goldman-sachs-new-zealand-houses-most-overvalued), [Archive](https://archive.ph/F5tOm)
 
 Investment bank Goldman Sachs says there is a 40 per cent chance New Zealand will suffer a housing market "bust" in the next two years. It has put out a report that looks at housing markets in the G-10 countries, according to Bloomberg. It reportedly found New Zealand's was the most over-valued and at risk of correction. But to qualify as a "bust", prices would only have to fall 5 per cent or more, after inflation.
 
@@ -23,7 +25,7 @@ ASB senior economist Chris Tennent-Brown said even a 10 per cent to 15 per cent 
 
 ---
 ## Where NZ ranks now with Chinese real estate buyers: popularity change
-Anne Gibson, 22 August 2017 - [NZ Herald](https://www.nzherald.co.nz/business/where-nz-ranks-now-with-chinese-real-estate-buyers-popularity-change/6GF53EX4XTTX6MFFZ7F3AX6ONI/),[Archive](https://archive.ph/GfI45)
+Anne Gibson, 22 August 2017 - [NZ Herald](https://www.nzherald.co.nz/business/where-nz-ranks-now-with-chinese-real-estate-buyers-popularity-change/6GF53EX4XTTX6MFFZ7F3AX6ONI/), [Archive](https://archive.ph/GfI45)
 
 Chinese buyer appetite for New Zealand property remains strong because this country's real estate is "good value", a real estate chief says, but we have slipped in popularity lately. Jane Lu, Australia and New Zealand chief for Chinese real estate business Juwai, said for Chinese buyers, New Zealand ranked as the sixth most popular country globally, behind the United States, Australia, Thailand, Canada and the United Kingdom.
 
@@ -50,6 +52,55 @@ New Zealand needs 71,000 more houses - more than half of them in Auckland - the 
 The methodology used by MBIE estimated the accumulated housing shortfall in Auckland after assessing the rise in population compared to new houses that have been built. MBIE said the shortage of supply relative to demand had contributed to a large growth in prices, as well as an increase in rents.
 
 The new Labour-led government plans to build 100,000 new homes in the next 10 years with its $2b KiwiBuild scheme. In the coming three years, KiwiBuild aims to gradually ramp up to 10,000 high-quality affordable new residences for first-home buyers per year, half in Auckland. Earlier Phil Twyford told the Herald it would take about three years for the programme to kick into full-strength, starting out at a few hundred or possibly 1000 residences in the first year.
+
+---
+## Auckland's middle class plummeting down property ladder
+Dileepa Fonseka, 02 July 2018 - [Stuff](https://www.stuff.co.nz/auckland/105169816/aucklands-middle-class-plummeting-down-property-ladder), [Archive](https://archive.ph/1ESvt)
+
+Auckland's middle class have seen a huge drop in their ability to own the home of their choice. Auckland Council has released a report _Who can buy Auckland's houses_ analyses housing affordability at 10 and 20 per cent deposit rates for different income levels. 
+
+Since 2012 middle income groups had experienced a steep decline in the quality of houses they could afford at their income level.  In 2012 a household earning the median income could afford 48 per cent of the houses in Auckland with a 20 per cent deposit. Five years later they could afford just 18 per cent of houses in the market with a much larger deposit in dollar terms, Norman said. "They're feeling that pain of getting cut out."
+
+Affordability was defined as the ability to use 35 per cent of a household's income to pay for a 30-year mortgage at the Reserve Bank of New Zealand's first mortgage new customer housing rate.
+
+Harshal Chitale, Auckland Council senior economist, says their analysis shows middle-class income groups would now even be unable to afford a home at the Kiwibuild cap of $650,000. A household would need to be earning $118,300 a year to afford a $650,000 home with a 10 per cent deposit, he said. The study noted interest rates had changed less than one per cent over that time period so the main changes in affordability were due to price increases. 
+
+Housing affordability has fallen across all income groups according to the study, but the steepest fall was across middle-class income groups. Households in the bottom 35 per cent of incomes are unlikely to be able to buy anything, the study says. 
+
+---
+## New Zealand bans sales of homes to foreigners
+15 August 2018 - [BBC](https://www.bbc.com/news/world-asia-45199034), [Archive](https://archive.ph/QDpyF)
+
+New Zealand's parliament has banned many foreigners from buying existing homes in the country - a move aimed at making properties more affordable. The ban only applies to non-residents. Australians and Singaporeans are exempt because of free-trade deals.
+
+New Zealand is facing a housing affordability crisis which has left home ownership out of reach for many. Low interest rates, limited housing stock and immigration have driven up prices in recent years.
+
+They are now banned from purchasing most types of homes - but they will be able to make limited investments in new apartments in large developments. Foreigners with residency status in New Zealand - as well as non-resident Australian and Singaporean nationals - are not affected by the ban.
+
+The ban follows fears that overseas buyers of homes were putting too much pressure on infrastructure and house prices. Average prices in New Zealand have risen more than 60% in the past 10 years, while in Auckland - the country's largest city - they have almost doubled. In July, the median price for residential property nationwide was NZ$550,000, according to data from the Real Estate Institute of New Zealand. 
+---
+## It is not a question of whether Auckland's house prices fall, but by how much: Analyst
+Ben Leahy, 16 August 2018 - [NZ Herald](https://www.nzherald.co.nz/nz/it-is-not-a-question-of-whether-aucklands-house-prices-fall-but-by-how-much-analyst/DHYC32PNC7A2MKKO3IIMHWPZ7E/), [Archive](https://archive.ph/SzEtA)
+
+Australasian Trading Management warned investors in its Daily Market Insights home values had "already pulled back significantly" in Australia's hot Sydney and Melbourne markets and the "price correction" was spreading to Auckland. It pointed to figures by Auckland agents Barfoot & Thompson, showing the city's median home value hit $810,000 last month - a 10 per cent fall from the market peak price of $900,000 in March last year.
+
+Fellow analysts CoreLogic and industry lobby the Real Estate Institute of NZ, meanwhile, cautioned median prices were not the best measure of overall home values, and said Auckland house values were holding steady.
+
+ANZ chief economist Sharon Zollner told Q+A she was watching the New Zealand market with interest because of what was happening across the ditch. "Another risk has emerged on the horizon and that would be contagion from a more marked slowdown in the Australian housing market than is currently expected," she said.
+
+ASB chief economist Nick Tuffley agreed home values seemed high relative to rents and average incomes and that Government policy changes could hurt prices. But he did not "envisage a material fall" in values. "Auckland house prices have been pretty flat for the last two years, with marginal falls in recent months," he said. "We expect prices to be pretty flat over the next couple of years, with very mild increases or falls possible."
+
+REINZ chief executive Bindi Norwell said Auckland prices had remained stable over the past 15 months rather than fallen. REINZ statistics followed a similar pattern to Barfoot & Thompson's figures with a market peak median Auckland home price of $900,000 in March last year and a median price of $835,000 last month.
+
+---
+## New Zealand median house prices rose 10 percent in 2018
+Jamie Ensor, 21 December 2018 - [Newshub](https://www.newshub.co.nz/home/new-zealand/2018/12/new-zealand-median-house-prices-rose-10-percent-in-2018.html), [Archive](https://archive.ph/xIqfI)
+
+The Real Estate Institute of New Zealand (REINZ) has released its year in review, revealing some interesting insights into the market which the organisation's chief executive Bindi Norwell has called "healthy". Between January and November 2018, the national median sale price increased 10.6 percent from $520,000 to $575,000. But that is down from the 11.2 per cent increase that house prices jumped during the same period in 2017.
+
+While the Auckland median sale prices increased 5.7 percent from $820,000 to $867,000, Ms Norwell said the city's market has been stabilising around $850,000 "for some time now" and expects a similar picture next year. Despite the higher prices, nationally there were 72,188 property sales over the period, up 4.2 percent.
+
+She told Newshub the market could be determined as being in a "healthy place" due to the decrease in how long it takes to sell a property. The days to sell across New Zealand decreased 23.9 percent from 46 to 35 days.  The decrease was stronger when Auckland is excluded, down 26.1 percent from 46 days to 34. "This means that it's taking a shorter time to sell properties compared to the same time the previous year, which is indicating that the market is in a healthy place," said Ms Norwell.
 
 ---
 ## An economy built on rising house prices: Is property our path to recovery?
